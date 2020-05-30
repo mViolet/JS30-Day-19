@@ -5,6 +5,7 @@ html {
 body {
   background-image: url(bg.jpg);
   background-size: cover;
+  font-family: 'Press Start 2P', cursive;
 }
 
 *, *:before, *:after {
@@ -22,7 +23,6 @@ html {
   margin: 2rem auto;
   border-radius: 2px;
   color: black;
-  font-family: 'Press Start 2P', cursive;
 }
 
 /*clearfix*/
